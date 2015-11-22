@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mihir Pathak Personal Website and Blog"
-date: 2015-11-15
+title: "Visit to Mozda Village"
+date: 2015-11-20
 ---
 Mozda
