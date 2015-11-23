@@ -8,3 +8,5 @@ Hello, last week I visited Village called Mozda.Michael Mazgaonkar and his wife 
 [Detail report of visit](https://www.dropbox.com/sh/eql5vbertzg694d/AAAnVWYHDXHFrjShqrcaUwjYa?dl=0)
 
 [Photographs from visit](https://www.dropbox.com/sh/1voxy862pt65b7w/AACPjj3yoNSbb7uODZhyXAxta?dl=0)
+
+[Mozda visit expensis](https://www.dropbox.com/s/4pm02sjni1bvysy/Mozda%20visit%20expenses%20.txt?dl=0)
