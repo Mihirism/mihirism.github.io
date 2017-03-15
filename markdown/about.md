@@ -4,20 +4,11 @@ Title: About us
 
 <!--
 
-<div style="padding: 10px; border: 1px solid; margin-top:10px; background-color: #ff0;"><strong>We are among the 5 nominees for "Clark for Care" award!</strong></br>To help us win Rs. 100,000 for helping animals, go to <a href="https://www.facebook.com/120832497945926/photos/1383147105047786/">our nomination page</a> and hit "Like"! <br/>Thank you :)</div>
 -->
 
 ><i>Like the Peepal tree which takes root and dismantles existing structures, we subvert the cultural status-quo to foster compassion and good work.</i>
 
 >****<i>We are humans helping animals.</i>****
-
-<!-- ![](/images/siteheader.jpg) -->
-<!--
-<div class="fb-video" data-href="https://www.facebook.com/badmashpeepal/videos/1599743853685951/" data-width="600" data-show-text="false" data-allowfullscreen="true">
-</div>
-<iframe width="100%" height="200px" src="https://www.youtube.com/embed/mBvUckJy0oo" frameborder="0" allowfullscreen></iframe>
--->
-<div class="youtube-player" data-id="ehExMVZ7FcE"></div>
 
 About us
 ======
