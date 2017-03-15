@@ -15,35 +15,16 @@ About us
 
 ## Who we are
 
-We are a group of loosely knit people with one goal; doing good work.  We believe in "alleviating physical pain" as an objective net good. So for us, good work is helping alleviate suffering of those who can't help themselves. 
-
-Our **[farm]( /?p=farm)** is the home we have built in Himalayan Foothills to accommodate recovering injured stray animals, people who want to do good work, and an organic garden to provide a little bit for for all of us.
+learnlabs family is the  growing community of seekers and self designed learners who have come together to unfold the paths of learning societies by challenging the ready made institutional way of learning and living.
 
 ## Vision
 
-To alleviate animal suffering and eradicate the human behaviors that cause it.
+To reclaim the meaning of education and breaking the existing factory-model of learning we are committed to creating spaces and processes where individual and communities can together engage in dialogue to reclaim control over their own learning processes and learning ecologies.
 
 ## Current Mission
 
-A space for stray animals to heal and be heard and for people who want to be part of that change, based near Dharamshala, India.
-
-<!--
-## Strategy & Tactics/methodology
-
-Short term **service** by doing animal welfare
-Long term fixes by encouraging and enabling compassion towards animals. 
-
-  Bring together a group of people which will continue doing and inspiring good work, 
-  Also via **awareness** (<i>education</i> + <i>culture jamming</i>), **innovation** and **policy**.
-Our methods of choice for that are **[hacktivism](/?p=hacktivism)**, **community organization** and **[good enterprise](/?p=good-enterprise)**.  
--->
+To help communities and individuals to create their own informal learning commons like home schooling/unshooling groups, Gap year/Walkouts networks, self designed learning webs, Maker/Hacker/ learning spaces.
 
 ## Philosophy
 
-We believe that every action for survival has a suffering footprint, especially any consumption. So, we believe in mindful consumption and making our survival purposeful by alleviateing suffering. 
-
-
-<!--
-*History
-*non-organization structure - mother's definition of work?
--->
+Today factory schooling and literacy programs are suppressing many diverse forms of human learning and expression, as well as much needed organic processes towards just and harmonious social regeneration. So we believe that communities should come togather and reclaim the control over their own learning and living.
