@@ -1,0 +1,221 @@
+/* =Template
+-------------------------------------------------------------- */
+
+body {
+	font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}	
+
+#wrapper {
+  width: 100%;
+  margin: 0 auto; 
+  margin-top:110px;
+}
+
+#main_content {
+   margin: 0 auto;
+   max-width: 600px;
+   padding: 10px;
+}
+
+#main_content img {
+	width: 100%;
+}
+
+
+#social-icons {
+	padding-top:5px;
+}
+
+#social-icons a {
+	padding: 5px;
+	color: #000;
+}
+
+.markdown-body {
+   word-wrap: break-word;
+}
+
+footer {
+	text-align: center;
+}
+
+/* =Header
+-------------------------------------------------------------- 
+* 
+* */
+
+header {
+	
+
+	width: 100%;
+
+	height: 140px;
+	text-align: center;
+
+	overflow: hidden;
+	position: fixed;
+	top: 0px;
+	
+	left: 0;
+	z-index: 999;
+	background-color: #fafafa;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee; 
+
+
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s; 
+}
+  	
+header h1 {
+	color: #000;
+	font-weight: 400;
+	font-size: 30px;
+
+}
+
+
+
+header nav {
+		text-align: center;
+		margin: 0 auto; 
+		padding-top:10px;
+	}
+	header nav ul {
+			margin: 0;
+			padding: 0;
+		}
+		header nav ul li {
+				list-style: none;
+				display: inline-block;
+				*display:inline; /* ie7 */
+			}
+
+header nav a {
+	height: 20px;
+
+	line-height: 20px;
+	margin: 0 10px; 
+	
+	text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .2rem;
+    
+    text-decoration: none;
+    color: #222; 
+    
+	}
+	header nav a:hover {
+		color: #33C3F0; 
+		}
+		header nav a:active {
+			color: #33C3F0; 
+			}
+
+  header.smaller {
+		height: 70px; 
+	}
+    header.smaller #logo {
+			display:none; 
+		}
+		
+
+#menu {
+	display: none;
+}
+
+header.nav-up {
+	/* top: -75px; would have been smoother, but we must hide the open menu. gah */
+	top: -140px;
+}
+
+
+/* =Media Queries
+-------------------------------------------------------------- */
+  
+  
+
+
+@media screen and (max-width: 700px) {
+
+body {
+	cursor: pointer; /* apple css fix  https://css-tricks.com/forums/topic/click-function-for-hover-states-on-touch-devices/#post-174426 */
+}
+
+
+	header {
+		overflow: visible;
+		text-align: center; 
+	}
+		
+	header nav a {
+		margin-left: 0px;
+	}
+
+
+	#menu {
+		display: block;
+		text-transform: uppercase;
+		font-size: 11px;
+		font-weight: 600;
+		letter-spacing: .2rem;
+		
+		text-decoration: none;
+		color: #222; 
+		
+		cursor: pointer;
+		
+	}
+
+     
+	
+	.nav ul {
+		padding: 5px;
+		width: 150px;
+		text-align:center;
+		margin: 0 auto;
+		display: inline-block;
+		
+		border: solid 1px #aaa;
+		background: #fff;
+		border-radius: 4px;
+		box-shadow: 0 1px 2px rgba(0,0,0,.3);
+		
+		-webkit-filter: drop-shadow(0 0 6px rgba(0,0,0,.1));
+			-moz-filter: drop-shadow(0 0 6px rgba(0,0,0,.1));
+				filter: drop-shadow(0 0 6px rgba(0,0,0,.1)); 
+	}
+	.nav li {
+		display: none; /* hide all <li> items */
+		margin: 0 auto;
+		padding: 8px;		
+	}
+	.nav .current {
+		display: block; /* show only current <li> item */
+		background: none;
+		color: #666;
+	}
+	
+	/* on nav hover */
+	.nav ul:hover li {
+		display: block;
+	}
+	
+	.nav ul:focus li {
+		display: block;
+	}
+	.nav ul:active li {
+		display: block;
+	}
+	
+	
+}
+
+header.nav-up {
+	/* top: -75px; would have been smoother, but we must hide the open menu. gah */
+	top: -400px;
+}
