@@ -1,7 +1,7 @@
 <!--
 Title: About us
 -->
-><i>Like the Peepal tree which takes root and dismantles existing structures, we subvert the cultural status-quo to foster compassion and good work.</i>
+><i>Hey guys we are still in process of developing some cool stuff. stay tuned</i>
 
 >****<i>We are humans helping animals.</i>****
 
