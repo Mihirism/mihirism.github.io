@@ -3,7 +3,7 @@ Title: About us
 -->
 ><i>Hey guys we are still in process of developing some cool stuff. stay tuned</i>
 
->****<i>We are humans helping animals.</i>****
+>****<i>We are learning</i>****
 
 <!-- ![](/images/siteheader.jpg) -->
 <!--
